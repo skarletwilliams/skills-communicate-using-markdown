@@ -9,3 +9,4 @@ oh no
 ##### AND SMAAAALLLER
 
 ###### So small.
+![Image of axolotyl](https://github.com/skarletwilliams/skills-communicate-using-markdown/assets/77312299/0764db62-d160-4b2c-95f7-707b24b15f5d)
