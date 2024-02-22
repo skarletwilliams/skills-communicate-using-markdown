@@ -5,7 +5,9 @@ oh no
 ### The headers are getting smaller
 ...
 #### AND SMALLER
-
+ - [ ] get small
+ - [ ] get even smaller
+ - [X] be as SMALL AS POSSIBLE
 ##### AND SMAAAALLLER
 ```
 int small = .0000001;
